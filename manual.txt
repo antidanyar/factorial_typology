@@ -1,0 +1,8 @@
+	Ident-F	*VV	DEP	LIN	Agree(VV)
+	Ident-F	*VV	DEP	LIN	Agree(VV)
+/aa/	aa		0	1	0	0	0
+	a?a		0	0	1	0	0
+	a	1	0	0	0	1	0
+/ao/	ao		0	1	0	0	1
+	a		1	0	0	1	0
+	a?o	1	0	0	1	0	0
